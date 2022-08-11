@@ -1,0 +1,11 @@
+{
+    "webtorrent": {
+        "torrent": "https://video-server.onrender.com/v/costa_rica_360p_60fps/index.torrent",
+        "webseed": "https://video-server.onrender.com/v/costa_rica_360p_60fps/vid.mp4"
+    },
+    "desktop": {
+        "720": "https://video-server.onrender.com/v/costa_rica_360p_60fps/vid.mp4"
+    },
+    "mobile": "https://video-server.onrender.com/v/costa_rica_360p_60fps/vid.mp4",
+    "subtitles": []
+}
